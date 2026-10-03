@@ -1,6 +1,6 @@
 <div align="center">
 
-# vasiliy / lewodro
+# *vasiliy / lewodro*
 
 `CS + Business` · systems, games, agents & weird internet software
 
