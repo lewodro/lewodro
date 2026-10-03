@@ -4,8 +4,6 @@
 
 `CS + Statistics` · systems, games, agents & weird internet software
 
-<img src="./terminal.svg" width="760" alt="animated terminal intro" />
-
 </div>
 
 
