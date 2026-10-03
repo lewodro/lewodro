@@ -30,7 +30,7 @@
 
 student who likes building things slightly outside the assignment spec.
 
-mostly interested in **autonomous agents, verification systems, game infrastructure, backend engineering, SMPI business and statistics**.
+mostly interested in **autonomous agents, verification systems, game infrastructure, backend engineering and statistics**.
 
 ```bash
 $ whoami
