@@ -2,7 +2,7 @@
 
 # *vitaliu / lewodro*
 
-`CS + Business` · systems, games, agents & weird internet software
+`CS Co-op / Statistics` · systems, games, agents & weird internet software
 
 </div>
 
