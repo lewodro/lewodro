@@ -34,10 +34,10 @@ mostly interested in **autonomous agents, verification systems, game infrastruct
 
 ```bash
 $ whoami
-vasiliy
+vitaliu
 
 $ currently_building
-vexera-core
+aae, agent-hooks tooling.
 
 $ languages
 rust  typescript  python  c#  javascript
@@ -76,7 +76,7 @@ another game jam experiment because apparently one wasn't enough.
 ### `~/stack`
 
 `Unity` · `TypeScript` · `Rust` · `C#` · `SQL` · `JavaScript`  
-`Node.js` · `AWS` · `Python` · `Linux`
+`Node.js` · `AWS` · `Python` · `Linux` · `Harnesses` 
 
 ```text
           /\_/\\
