@@ -2,7 +2,7 @@
 
 # *vitaliu / lewodro*
 
-`CS Co-op / Statistics` · ML, systems, games, agents & optimization.
+`CS Co-op / Statistics` · ML, systems, games, system design, agents & optimization.
 
 </div>
 
@@ -30,7 +30,7 @@
 
 student who likes building things slightly outside the assignment spec.
 
-mostly interested in **autonomous agents, verification systems, game infrastructure, backend engineering and statistics**.
+mostly interested in **autonomous agents, verification systems, game infrastructure, backend engineering and statistical economics**.
 
 ```bash
 $ whoami
