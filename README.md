@@ -2,7 +2,7 @@
 
 # *vitaliu / lewodro*
 
-`CS Co-op / Statistics` · systems, games, agents & weird internet software
+`CS Co-op / Statistics` · ML, systems, games, agents & optimization.
 
 </div>
 
@@ -48,14 +48,17 @@ $ status
 
 ### `~/projects`
 
-**agent-passport**  
-portable identity and verification schema for autonomous agents.
-
 **roots-of-life**  
 Global Game Jam Vancouver project.
 
+**autonomous-agent-economy**
+persistent Rust/Node.js sandbox where agents compete, remember, and operate inside bounded economic permissions.
+
 **Vexera Core / BenchArena**  
 verification + competition infrastructure for autonomous agents.
+
+**agent-passport**  
+portable identity and verification schema for autonomous agents.
 
 **SpeedJam**  
 another game jam experiment because apparently one wasn't enough.
@@ -75,8 +78,8 @@ another game jam experiment because apparently one wasn't enough.
 
 ### `~/stack`
 
-`Unity` · `TypeScript` · `Rust` · `C#` · `SQL` · `JavaScript`  
-`Node.js` · `AWS` · `Python` · `Linux` · `Harnesses` 
+`Unity` · `TypeScript` · `Linux` · `C#` · `Rust` · `JavaScript`  
+`Node.js` · `AWS` · `Python` · `SQL` · `Harnesses` 
 
 ```text
           /\_/\\
