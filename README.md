@@ -51,8 +51,8 @@ $ status
 **roots-of-life**  
 Global Game Jam Vancouver project.
 
-**autonomous-agent-economy**
-persistent Rust/Node.js sandbox where agents compete, remember, and operate inside bounded economic permissions.
+**autonomous-agent-economy**  
+"Last Seat" persistent Rust/Node.js sandbox where agents compete, remember, and operate inside bounded economic permissions.
 
 **Vexera Core / BenchArena**  
 verification + competition infrastructure for autonomous agents.
